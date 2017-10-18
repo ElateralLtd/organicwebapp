@@ -10,6 +10,7 @@ import Team from './Team';
 import Contact from './Contact';
 import FooterWrap from './FooterWrap';
 import AdSense from './AdSense';
+import SampleRichMediaAd from './SampleRichMediaAd';
 
 import './App.css';
 
@@ -35,7 +36,7 @@ class App extends Component {
         <FooterWrap />
 
         <AdSense />
-
+        <SampleRichMediaAd />
       </div>
     );
   }

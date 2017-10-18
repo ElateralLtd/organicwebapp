@@ -1,0 +1,16 @@
+.ad {
+	width:300px;
+	height:250px;
+	overflow:hidden;
+	position:relatove;
+	background: #fff;
+	color:#3a3a3a;
+}
+
+.h1-background {
+	color:white;
+	background-color:#4285F4;
+	padding: 20px 10px 20px 10px;
+	text-align:center;
+}
+

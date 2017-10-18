@@ -9,6 +9,7 @@ import Portfolio from './Portfolio';
 import Team from './Team';
 import Contact from './Contact';
 import FooterWrap from './FooterWrap';
+import AdSense from './AdSense';
 
 import './App.css';
 
@@ -32,6 +33,8 @@ class App extends Component {
         <Contact />
 
         <FooterWrap />
+
+        <AdSense />
 
       </div>
     );

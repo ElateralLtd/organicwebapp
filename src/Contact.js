@@ -13,7 +13,7 @@ export default class Contact extends Component {
                         <div className="col-md-7">
                             <strong>Please give us your feedback!</strong>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
-                            <form id="contact" method="post" className="form" role="form">
+                            <form id="contact" method="post" className="form">
                                 <div className="row">
                                     <div className="col-md-12 form-group">
                                         <input className="form-control" id="name" name="name" placeholder="Name" type="text" required />

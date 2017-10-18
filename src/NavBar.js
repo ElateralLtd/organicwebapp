@@ -15,11 +15,11 @@ export default class NavBar extends Component {
                         <div className="navbar-collapse collapse">
                             <ul className="nav navbar-nav pull-right">
                                 <li><a href="#home-section" className="smoothScroll">Welcome</a></li>
-                                <li> <a href="#services" className="smoothScroll">We Offer</a></li>
-                                <li> <a href="#about" className="smoothScroll"> Our Shop</a></li>
-                                <li> <a href="#portfolio" className="smoothScroll"> Special</a></li>
-                                <li> <a href="#team" className="smoothScroll"> Chef Team</a></li>
-                                <li> <a href="#contact" className="smoothScroll"> Get In Touch</a></li>
+                                <li><a href="#services" className="smoothScroll">We Offer</a></li>
+                                <li><a href="#about" className="smoothScroll"> Our Shop</a></li>
+                                <li><a href="#portfolio" className="smoothScroll"> Special</a></li>
+                                <li><a href="#team" className="smoothScroll"> Chef Team</a></li>
+                                <li><a href="#contact" className="smoothScroll"> Get In Touch</a></li>
                             </ul>
                         </div>
                     </div>

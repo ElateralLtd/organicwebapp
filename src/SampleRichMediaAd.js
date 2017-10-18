@@ -4,7 +4,7 @@ export default class SampleRichMediaAd extends Component {
     render() {
         return (
             <div id="sampleAdOnRight">
-                <iframe src="assets/ad/index.html" frameborder="0" scrolling="no" />
+                <iframe src="assets/ad/index.html" frameborder="0" scrolling="no" title="nescafe coffee ad"/>
             </div>
         )
     }

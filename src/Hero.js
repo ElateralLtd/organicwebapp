@@ -12,7 +12,7 @@ export default class Hero extends Component {
                         </div>
                         <div className="links tb-cell">
                             <div className="reservation-link">
-                                <a href="#" className="btn reservation-btn">RESERVATION</a>
+                                <a href="#reservations" className="btn reservation-btn">RESERVATION</a>
                             </div>
                         </div>
                     </div>

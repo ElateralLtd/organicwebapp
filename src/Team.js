@@ -13,22 +13,22 @@ export default class Team extends Component {
                             <br />
                         </div>
                         <div className="col-lg-3 centered"> <img className="img img-circle" src="assets/img/team/team01.jpg" height="120px" width="120px" alt="" />
-                            <h4><strong>Rennyl</strong></h4>
+                            <h4><strong>Susan</strong></h4>
                             <p>Consectetuer eu nam. Saepe legendos vulputate eu quo, id mea comprehensam signifer.</p>
                             <a href="#"><i className="fa fa-twitter"></i></a> <a href="#"><i className="fa fa-facebook"></i></a> <a href="#"><i className="fa fa-linkedin"></i></a>
                         </div>
                         <div className="col-lg-3 centered"> <img className="img img-circle" src="assets/img/team/team02.jpg" height="120px" width="120px" alt="" />
-                            <h4><b>Kristean</b></h4>
+                            <h4><b>Treena</b></h4>
                             <p>Consectetuer eu nam. Saepe legendos vulputate eu quo, id mea comprehensam signifer.</p>
                             <a href="#"><i className="fa fa-twitter"></i></a> <a href="#"><i className="fa fa-facebook"></i></a> <a href="#"><i className="fa fa-linkedin"></i></a>
                         </div>
                         <div className="col-lg-3 centered"> <img className="img img-circle" src="assets/img/team/team03.jpg" height="120px" width="120px" alt="" />
-                            <h4><b>Angilica</b></h4>
+                            <h4><b>George</b></h4>
                             <p>Consectetuer eu nam. Saepe legendos vulputate eu quo, id mea comprehensam signifer.</p>
                             <a href="#"><i className="fa fa-twitter"></i></a> <a href="#"><i className="fa fa-facebook"></i></a> <a href="#"><i className="fa fa-linkedin"></i></a>
                         </div>
                         <div className="col-lg-3 centered"> <img className="img img-circle" src="assets/img/team/team04.jpg" height="120px" width="120px" alt="" />
-                            <h4><b>Shannon</b></h4>
+                            <h4><b>Natasha</b></h4>
                             <p>Consectetuer eu nam. Saepe legendos vulputate eu quo, id mea comprehensam signifer.</p>
                             <a href="#"><i className="fa fa-twitter"></i></a> <a href="#"><i className="fa fa-facebook"></i></a> <a href="#"><i className="fa fa-linkedin"></i></a>
                         </div>
